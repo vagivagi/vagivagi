@@ -1,3 +1,9 @@
+## Profile
+
+- Web Developer in Tokyo
+- I often use Java, Spring Framework.
+- Now learning container echo systems, k8s, docker etc.
+
 ## Skills
 
 ### Language
