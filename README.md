@@ -9,18 +9,18 @@
 ### Language
 
 
-[![](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java)](https://github.com/vagivagi)
-[![](https://img.shields.io/badge/-JavaScript-fff?style=flat&logo=JavaScript)](https://github.com/vagivagi)
-[![](https://img.shields.io/badge/-TypeScript-fff?style=flat&logo=TypeScript)](https://github.com/vagivagi)
-[![](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby)](https://github.com/vagivagi)
-[![](https://img.shields.io/badge/-Go-fff?style=flat&logo=Go)](https://github.com/vagivagi)
+[![](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java)](https://www.java.com/)
+[![](https://img.shields.io/badge/-JavaScript-fff?style=flat&logo=JavaScript)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![](https://img.shields.io/badge/-TypeScript-fff?style=flat&logo=TypeScript)](https://www.typescriptlang.org/)
+[![](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby)](https://www.ruby-lang.org/)
+[![](https://img.shields.io/badge/-Go-fff?style=flat&logo=Go)](https://golang.org/)
 
 ### Framework/Library
 
-[![](https://img.shields.io/badge/-Spring-fff?style=flat&logo=Spring)](https://github.com/vagivagi)
-[![](https://img.shields.io/badge/-Vue.js-fff?style=flat&logo=Vue.js)](https://github.com/vagivagi)
-[![](https://img.shields.io/badge/-Nuxt.js-fff?style=flat&logo=Nuxt.js)](https://github.com/vagivagi)
-[![](https://img.shields.io/badge/-React-fff?style=flat&logo=React)](https://github.com/vagivagi)
+[![](https://img.shields.io/badge/-Spring-fff?style=flat&logo=Spring)](https://spring.io/projects/spring-framework)
+[![](https://img.shields.io/badge/-Vue.js-fff?style=flat&logo=Vue.js)](https://vuejs.org/index.html)
+[![](https://img.shields.io/badge/-Nuxt.js-fff?style=flat&logo=Nuxt.js)](https://nuxtjs.org/)
+[![](https://img.shields.io/badge/-React-fff?style=flat&logo=React)](https://reactjs.org/)
 
 
 ### Middleware
