@@ -29,18 +29,18 @@
 
 ### Middleware
 
-[![](https://img.shields.io/badge/-Docker-fff?style=flat&logo=docker)](https://github.com/vagivagi)
-[![](https://img.shields.io/badge/-Kubernetes-fff?style=flat&logo=Kubernetes)](https://github.com/vagivagi)
-[![](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=mysql)](https://github.com/vagivagi)
-[![](https://img.shields.io/badge/-Redis-fff?style=flat&logo=redis)](https://github.com/vagivagi)
+[![](https://img.shields.io/badge/-Docker-fff?style=flat&logo=docker)](https://www.docker.com/)
+[![](https://img.shields.io/badge/-Kubernetes-fff?style=flat&logo=Kubernetes)](https://kubernetes.io/)
+[![](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=mysql)](https://www.mysql.com/)
+[![](https://img.shields.io/badge/-Redis-fff?style=flat&logo=redis)](https://redis.io/)
 
-### Tool
+### Tool/Service
 
-[![](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub)](https://github.com/vagivagi)
-[![](https://img.shields.io/badge/-GitHubActions-fff?style=flat&logo=GitHub-Actions)](https://github.com/vagivagi)
-[![](https://img.shields.io/badge/-Azure-fff?style=flat&logo=microsoft-azure)](https://github.com/vagivagi)
-[![](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=Heroku)](https://github.com/vagivagi)
-[![](https://img.shields.io/badge/-Concourse-fff?style=flat&logo=Concourse)](https://github.com/vagivagi)
+[![](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub)](https://github.com)
+[![](https://img.shields.io/badge/-GitHubActions-fff?style=flat&logo=GitHub-Actions)](https://github.co.jp/features/actions)
+[![](https://img.shields.io/badge/-Azure-fff?style=flat&logo=microsoft-azure)](https://azure.microsoft.com/)
+[![](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=Heroku)](https://www.heroku.com/)
+[![](https://img.shields.io/badge/-Concourse-fff?style=flat&logo=Concourse)](https://concourse-ci.org/)
 
 ## Analysis
 
