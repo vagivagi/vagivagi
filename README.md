@@ -1,8 +1,4 @@
-## Acount
-
-[![](https://img.shields.io/badge/-vagivagi-181717?logo=GitHub)](https://github.com/vagivagi)
-
-## Profile
+https://github.com/vagivagi
 
 - Web Developer in Tokyo
 - I often use Java, Spring Framework.
