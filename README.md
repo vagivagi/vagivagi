@@ -37,10 +37,3 @@ https://github.com/vagivagi
 [![](https://img.shields.io/badge/-Azure-fff?style=flat&logo=microsoft-azure)](https://azure.microsoft.com/)
 [![](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=Heroku)](https://www.heroku.com/)
 [![](https://img.shields.io/badge/-Concourse-fff?style=flat&logo=Concourse)](https://concourse-ci.org/)
-
-### Analysis
-
-[![](https://raw.githubusercontent.com/vagivagi/vagivagi/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vagivagi)
-
-[![](https://raw.githubusercontent.com/vagivagi/vagivagi/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vagivagi)
-[![](https://raw.githubusercontent.com/vagivagi/vagivagi/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vagivagi)
